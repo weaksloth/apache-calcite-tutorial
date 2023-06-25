@@ -5,7 +5,7 @@
 第二个L表示每次都进行最左推导(在推导语法树的过程中每次都替换句型中最左的非终结符为终结符。类似还有最右推导)；
 k表示的是每次向前探索(lookahead)k个终结符
 
-[官网](https://javacc.or)
+[官网](https://javacc.org)
 
 [语法文件](https://javacc.org/javaccgrm)
 
